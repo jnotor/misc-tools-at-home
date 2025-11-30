@@ -1,0 +1,46 @@
+{
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/2tti8XBDVX0QzslauT2UOl"
+  },
+  "href": "https://api.spotify.com/v1/playlists/2tti8XBDVX0QzslauT2UOl",
+  "id": "2tti8XBDVX0QzslauT2UOl",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e021afb008644fe3e2264b4a695ab67616d00001e0234081de9218c5014fefa5eccab67616d00001e02a7f707737891683850f67b92ab67616d00001e02fb50d713336f29e8abb9748f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e021afb008644fe3e2264b4a695ab67616d00001e0234081de9218c5014fefa5eccab67616d00001e02a7f707737891683850f67b92ab67616d00001e02fb50d713336f29e8abb9748f",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e021afb008644fe3e2264b4a695ab67616d00001e0234081de9218c5014fefa5eccab67616d00001e02a7f707737891683850f67b92ab67616d00001e02fb50d713336f29e8abb9748f",
+      "width": 60
+    }
+  ],
+  "name": "hades faves",
+  "owner": {
+    "display_name": "grixian",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/ai8rj5wuqy7vyde956dbmx7ll"
+    },
+    "href": "https://api.spotify.com/v1/users/ai8rj5wuqy7vyde956dbmx7ll",
+    "id": "ai8rj5wuqy7vyde956dbmx7ll",
+    "type": "user",
+    "uri": "spotify:user:ai8rj5wuqy7vyde956dbmx7ll"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "AAAAE7IyO64Bf3gyMfkkuHM2rH5MUGvT",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/2tti8XBDVX0QzslauT2UOl/tracks",
+    "total": 18
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:2tti8XBDVX0QzslauT2UOl"
+}
